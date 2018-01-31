@@ -1,0 +1,133 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  margin: 0px;
+}
+
+header {
+  background-color: #95E0E4;
+  height: 65px;
+}
+
+#logo {
+  height: 42px;
+  width: 42px;
+  display: inline-block;
+  margin-top: 11px;
+  margin-left: 31px;
+}
+
+nav a {
+  font-size: 20px;
+  padding: 10px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#nav {
+  margin-top: 21px;
+  margin-right: 21px;
+  display: inline-block;
+  float: right;
+
+}
+
+#section1 {
+  background-image: url('images/park.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 1100px;
+  align-content: center;
+  text-align: center;
+  height: 550px;
+  font-size: 22px;
+}
+
+#main-image {
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+h1 {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+h2 {
+  padding: 20px;
+}
+
+.image {
+  border-radius: 50%;
+  border-color: #428DA6;
+  border-style: solid;
+}
+
+.article-image {
+  height: 200px
+}
+
+.column1, 
+.column2, 
+.column3 {
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+  text-align: center;
+  align-items: center;
+}
+
+.column3 {
+  margin-right: 0%;
+}
+
+p {
+  font-size: 18px;
+  padding: 20px;
+}
+
+.button {
+  border: 5px;
+  border-color: #428DA6;
+  border-style: solid;
+  color: #428DA6;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 22px;
+  font-weight: bold;
+  padding: 6px;
+}
+
+footer {
+  background-color: #438DA6;
+  height: 220px;
+  clear: both;
+}
+
+footer p {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.social-media-links {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 22px;
+  padding-left: 22px;
+}
+
+footer a {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+}
+
